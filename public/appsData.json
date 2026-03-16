@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/LhZStvV9/demo-app-1.webp",
+    "title": "Task Master",
+    "companyName": "NextSoft Ltd",
+    "description": "Task Master is a productivity application designed to help users manage their daily work efficiently. It allows users to create tasks, organize them by category, and track progress throughout the day. The clean interface makes navigation simple even for beginners. Notifications remind users about upcoming deadlines so they never miss important tasks. Task Master also provides statistics showing completed and pending tasks. Students, freelancers, and professionals can all benefit from using this application. The app focuses on simplicity and speed, ensuring that even low-end devices run it smoothly.",
+    "size": 45,
+    "reviews": 210,
+    "ratingAvg": 4.5,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 90 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/1F8V9T4/demo-app-2.webp",
+    "title": "Photo Magic",
+    "companyName": "Pixel Studio",
+    "description": "Photo Magic is a creative photo editing app that allows users to enhance images with filters, color adjustments, and artistic effects. The interface is simple and beginner friendly, making editing quick and enjoyable. Users can crop photos, adjust brightness, contrast, and apply modern filters inspired by social media trends. Photo Magic also supports direct sharing to various social platforms. The lightweight design ensures smooth performance across most smartphones. Whether you want to improve selfies or landscape shots, the application provides essential editing tools to transform ordinary photos into stunning visuals.",
+    "size": 52,
+    "reviews": 340,
+    "ratingAvg": 4.6,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 160 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/GQVBF0ct/demo-app-3.webp",
+    "title": "Weather Pro",
+    "companyName": "SkyTech",
+    "description": "Weather Pro is a reliable forecasting application designed to provide accurate weather information for your location. The app shows real time temperature, humidity, wind speed, and rainfall predictions. Users can check hourly forecasts and weekly outlooks to plan activities effectively. Animated icons and clear charts make weather data easy to understand. Weather Pro automatically detects your location and updates information regularly. Travelers, commuters, and outdoor enthusiasts can benefit from timely weather alerts and notifications. The app is optimized to use minimal battery and deliver fast updates.",
+    "size": 39,
+    "reviews": 180,
+    "ratingAvg": 4.4,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 9 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 65 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/C5jvRm0J/demo-app-4.webp",
+    "title": "Fit Track",
+    "companyName": "Healthify Corp",
+    "description": "Fit Track is a health monitoring application designed to encourage an active lifestyle. The app records steps, workouts, and calories burned throughout the day. Users can track daily progress with interactive graphs and performance reports. The application also sends reminders to drink water and stay active. Fit Track supports various workout types including walking, running, and cycling. The simple interface allows users to navigate easily between features. Whether you want to improve fitness or maintain a healthy routine, this app provides helpful tools to stay motivated.",
+    "size": 48,
+    "reviews": 420,
+    "ratingAvg": 4.7,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 11 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 217 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/7tvVx59D/demo-app-5.webp",
+    "title": "Note Keeper",
+    "companyName": "BrainApps",
+    "description": "Note Keeper is a simple note taking application that helps users capture ideas quickly. It supports text notes, checklists, and color tags for organization. Users can easily search notes and manage them with folders. Automatic saving ensures no information is lost while writing. The app also offers backup options to keep notes safe across devices. Its clean and distraction free interface makes writing comfortable. Students and professionals can use Note Keeper to manage study notes, reminders, and daily plans effectively.",
+    "size": 34,
+    "reviews": 150,
+    "ratingAvg": 4.3,
+    "downloads": 10000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 59 }
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/21w5Pwq2/pexels-sanketgraphy-16773547.jpg",
+    "title": "Music Beat",
+    "companyName": "SoundWave",
+    "description": "Music Beat is a streaming application where users can listen to thousands of songs from different genres. The app offers playlists, trending music charts, and personalized recommendations. Users can create their own playlists and download songs for offline listening. The interface is modern and responsive, making music discovery easy and enjoyable. Music Beat supports background play and high quality audio streaming for the best listening experience.",
+    "size": 60,
+    "reviews": 500,
+    "ratingAvg": 4.6,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/xqQHtCMf/demo-app-6.webp",
+    "title": "Study Planner",
+    "companyName": "EduTech",
+    "description": "Study Planner helps students organize their academic tasks efficiently. The application allows users to create study schedules, set reminders for assignments, and track exam dates. Colorful dashboards display progress and motivate students to stay focused. With a distraction free interface, the app ensures productivity while studying.",
+    "size": 41,
+    "reviews": 260,
+    "ratingAvg": 4.5,
+    "downloads": 18000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 9 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 125 }
+    ]
+  },
+
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/8D8WH9wL/pexels-gabby-k-7412068.jpg",
+    "title": "Travel Guide",
+    "companyName": "ExploreWorld",
+    "description": "Travel Guide helps users discover beautiful destinations around the world. The app provides travel tips, hotel suggestions, and local attractions for each location. Interactive maps and images help travelers explore places before visiting. With offline access and simple navigation, the application becomes a helpful companion during trips.",
+    "size": 67,
+    "reviews": 190,
+    "ratingAvg": 4.4,
+    "downloads": 16000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 28 },
+      { "name": "4 star", "count": 75 },
+      { "name": "5 star", "count": 72 }
+    ]
+  },
+
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/LDFrbFQt/pexels-leeloothefirst-8919549.jpg",
+    "title": "Finance Tracker",
+    "companyName": "MoneySoft",
+    "description": "Finance Tracker is designed to help users manage income and expenses effectively. The app records transactions, categorizes spending, and generates monthly reports. Users can set budgets and receive alerts when limits are exceeded. This tool helps individuals understand financial habits and maintain better control over personal budgets.",
+    "size": 38,
+    "reviews": 310,
+    "ratingAvg": 4.6,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 11 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 142 }
+    ]
+  },
+
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/CKDM3jY9/images.jpg",
+    "title": "Recipe Book",
+    "companyName": "KitchenLab",
+    "description": "Recipe Book provides a collection of delicious recipes from different cuisines. Users can browse meals, save favorites, and follow step by step cooking instructions. The app also suggests recipes based on ingredients available at home. It is perfect for beginners who want to learn cooking quickly.",
+    "size": 50,
+    "reviews": 275,
+    "ratingAvg": 4.5,
+    "downloads": 21000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 38 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 119 }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/HTZzZ7mb/download.jpg",
+    "title": "Language Learner",
+    "companyName": "LinguaTech",
+    "description": "Language Learner is an educational application designed to help users practice new languages in a fun and interactive way. The app provides vocabulary lessons, pronunciation exercises, and small quizzes that help reinforce learning. Users can track their daily progress and unlock new lessons as they complete previous ones. The interface is simple and colorful, making it suitable for both beginners and intermediate learners. Language Learner also includes listening practice with native speaker audio. By practicing a few minutes each day, users can gradually improve their speaking and reading skills.",
+    "size": 44,
+    "reviews": 240,
+    "ratingAvg": 4.5,
+    "downloads": 19000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 9 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 106 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/ksZGs0rT/images.png",
+    "title": "Daily Quotes",
+    "companyName": "InspireLabs",
+    "description": "Daily Quotes is a motivational application that delivers inspiring quotes every day. Users can browse categories such as success, happiness, leadership, and self improvement. The app allows saving favorite quotes and sharing them with friends on social media. A calm interface and beautiful typography make reading enjoyable. Daily reminders encourage users to start their day with positive thoughts and motivation.",
+    "size": 28,
+    "reviews": 130,
+    "ratingAvg": 4.4,
+    "downloads": 14000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 18 },
+      { "name": "4 star", "count": 55 },
+      { "name": "5 star", "count": 47 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/20PCq2p7/download-1.jpg",
+    "title": "Map Navigator",
+    "companyName": "GeoSmart",
+    "description": "Map Navigator helps users find routes and explore new locations easily. The application offers real time navigation, traffic updates, and alternative routes to avoid congestion. Users can search for nearby restaurants, gas stations, and hotels with just a few taps. Offline map support ensures that navigation works even when internet connection is weak.",
+    "size": 75,
+    "reviews": 410,
+    "ratingAvg": 4.6,
+    "downloads": 32000,
+    "ratings": [
+      { "name": "1 star", "count": 9 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 186 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/7Nkv4JCh/pexels-mikhail-nilov-6740748.jpg",
+    "title": "Mind Relax",
+    "companyName": "CalmTech",
+    "description": "Mind Relax is a meditation and relaxation application designed to reduce stress and improve mental well being. The app includes guided meditation sessions, breathing exercises, and calming background sounds. Users can choose different programs based on mood or available time. Regular practice can help improve focus and sleep quality.",
+    "size": 49,
+    "reviews": 260,
+    "ratingAvg": 4.7,
+    "downloads": 21000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 24 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 122 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/wrJm1gxQ/istockphoto-2211933937-1024x1024.jpg",
+    "title": "File Manager Plus",
+    "companyName": "SmartTools",
+    "description": "File Manager Plus allows users to organize files on their devices quickly and securely. The app supports file browsing, copying, moving, and deleting operations. Users can also compress files and manage storage space efficiently. With its clean interface and powerful search feature, finding documents and media becomes simple.",
+    "size": 36,
+    "reviews": 320,
+    "ratingAvg": 4.5,
+    "downloads": 26000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 143 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/8487djNm/pexels-neosiam-682422.jpg",
+    "title": "Alarm Smart",
+    "companyName": "MorningApps",
+    "description": "Alarm Smart is an advanced alarm clock application designed to help users wake up on time. The app offers customizable alarms, different alarm tones, and snooze options. Users can set repeating alarms for daily routines. A minimal interface ensures that setting alarms takes only a few seconds.",
+    "size": 22,
+    "reviews": 115,
+    "ratingAvg": 4.3,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 45 },
+      { "name": "5 star", "count": 41 }
+    ]
+  }
+]

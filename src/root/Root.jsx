@@ -7,11 +7,18 @@ import Lodding from "../pages/Lodding/Lodding";
 const Root = () => {
   const navigation = useNavigation();
   return (
-    <div className=" w-11/12 mx-auto">
+    <div className=" w-11/12 mx-auto min-h-screen flex flex-col">
       <Navbar />
-      {navigation.state === "loading" ? <Lodding /> : <Outlet />}
-
-      <Footer />
+      {navigation.state === "loading" ? (
+        <Lodding />
+      ) : (
+        <>
+          <div className="flex-1">
+            <Outlet />
+          </div>
+          <Footer />
+        </>
+      )}
     </div>
   );
 };
