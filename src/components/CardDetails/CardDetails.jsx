@@ -1,12 +1,15 @@
-import React from "react";
+import React, { useState } from "react";
 import { useLoaderData } from "react-router";
 import { useParams } from "react-router";
 import daw from "../../assets/icon-downloads.png";
 import rating from "../../assets/icon-ratings.png";
 import review from "../../assets/icon-review.png";
 import Chart from "../Chart/Chart";
+import { addLocalStorag } from "../../utility/localStorag";
+import { toast } from "react-toastify";
 const CardDetails = () => {
   const { id } = useParams();
+  const [install, setinstall] = useState(false);
 
   const datas = useLoaderData();
   const singledata = datas.find((data) => data.id === parseInt(id));
@@ -22,6 +25,12 @@ const CardDetails = () => {
     ratings,
     size,
   } = singledata;
+
+  const handelDawnlods = (id) => {
+    addLocalStorag(id);
+    setinstall(true);
+    toast("App install completed !");
+  };
 
   return (
     <div className="my-5">
@@ -56,8 +65,12 @@ const CardDetails = () => {
                 <h2 className="text-3xl font-bold">{reviews}K </h2>
               </div>
             </div>
-            <button className=" btn btn-lg bg-[#00D390] text-white">
-              Install Now ({size} MB)
+            <button
+              disabled={install}
+              onClick={() => handelDawnlods(id)}
+              className="btn btn-lg bg-[#00D390] text-white"
+            >
+              {install ? "Installed" : `Install Now (${size} MB)`}
             </button>
           </div>
         </div>
