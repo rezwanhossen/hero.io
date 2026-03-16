@@ -1,10 +1,11 @@
 import React from "react";
 import dawnlods from "../../assets/icon-downloads.png";
 import rex from "../../assets/icon-ratings.png";
+import { Link } from "react-router";
 const Card = ({ card }) => {
-  const { image, title, downloads, ratingAvg } = card;
+  const { id, image, title, downloads, ratingAvg } = card;
   return (
-    <div>
+    <Link to={`/appDetails/${id}`}>
       <div className="card bg-base-100  shadow-sm">
         <figure className="bg-base-200">
           <img className=" h-70 w-4/5 mx-auto " src={image} alt={title} />
@@ -23,7 +24,7 @@ const Card = ({ card }) => {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 
