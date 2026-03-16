@@ -2,7 +2,7 @@ import React from "react";
 import daw from "../../assets/icon-downloads.png";
 import star from "../../assets/icon-ratings.png";
 
-const Installdata = ({ install }) => {
+const Installdata = ({ install, removedata }) => {
   return (
     <div className="my-5">
       <div className="flex justify-between items-center bg-base-200 rounded-md p-5">
@@ -30,7 +30,10 @@ const Installdata = ({ install }) => {
           </div>
         </div>
         <div>
-          <button className="btn md:btn-lg bg-[#00D390] text-white">
+          <button
+            onClick={() => removedata(install.id)}
+            className="btn md:btn-lg bg-[#00D390] text-white"
+          >
             Uninstall
           </button>
         </div>

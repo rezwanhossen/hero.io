@@ -21,4 +21,10 @@ const addLocalStorag = (id) => {
   }
 };
 
-export { getElement, addLocalStorag };
+const removeData = (id) => {
+  const stordata = getElement();
+  const remint = stordata.filter((sid) => sid !== id.toString());
+  localStorage.setItem("apps", JSON.stringify(remint));
+};
+
+export { getElement, addLocalStorag, removeData };
